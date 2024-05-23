@@ -1,4 +1,5 @@
-## Hi there 👋
+## Oxente🐤
+Perdida fazendo o curso do Alura, seja bem vindo!😊
 
 <!--
 **BaianinhaPOOD/BaianinhaPOOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
